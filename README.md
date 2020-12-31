@@ -1,4 +1,4 @@
-# new_course
+# Run with fastai
 
 Potential ideas/topics/general theme:
 
