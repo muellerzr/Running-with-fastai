@@ -1,4 +1,4 @@
-# Soaring with fastai
+# Running with fastai
 
 Potential ideas/topics/general theme:
 
