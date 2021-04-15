@@ -8,6 +8,8 @@ Potential ideas/topics/general theme:
   * Similar to the Migration guides in the docs
   * Potential here to finally do keypoint heatmaps
   * Exploring IceVision, fasthugs, and other related libraries. Guest speakers from said libraries to discuss their headaches, solutions, etc
+* Deployment scenarios:
+  * All library vs some vs none, how to do what and where
 
 
 Basically getting stranger and stranger to help people see just what all you can do
