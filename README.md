@@ -11,6 +11,7 @@ Potential ideas/topics/general theme:
 * Deployment scenarios:
   * All library vs some vs none, how to do what and where
 * fastai_minima?
+* Optimizers, training loop / schedulers
 
 
 Basically getting stranger and stranger to help people see just what all you can do
