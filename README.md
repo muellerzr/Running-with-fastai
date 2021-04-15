@@ -10,6 +10,7 @@ Potential ideas/topics/general theme:
   * Exploring IceVision, fasthugs, and other related libraries. Guest speakers from said libraries to discuss their headaches, solutions, etc
 * Deployment scenarios:
   * All library vs some vs none, how to do what and where
+* fastai_minima?
 
 
 Basically getting stranger and stranger to help people see just what all you can do
