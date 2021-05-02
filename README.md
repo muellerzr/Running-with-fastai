@@ -6,7 +6,7 @@ Start date: TBD
 
 Notebooks will be live both here and on [Walk with fastai](https://walkwithfastai.com)
 
-## Debugging and advanced library introduction
+## Debugging and Advanced Library Introduction
 Week 1: Debugging fastai and understanding the source code, how to navigate bugs, and writing your first PR
 
 Week 2: Raw torch and fastai, walking through the migration guide, and bringing torch code into fastai (direct 1:1 conversion)
