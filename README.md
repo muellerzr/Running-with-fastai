@@ -27,8 +27,8 @@ Week 8: Intro to NLP and using Hooks to gather embeddings, showcase AdaptNLP and
 Week 9: Instance segmentation library, going through the implementation and the modifications to the fastai library needed
 
 ## Other Libraries and Guest Speakers
-Week 10: The timm library, how I integrated it into fastai, and a special guest
+Week 10: The timm library, how I integrated it into fastai, and a special guest: Aman Arora
 
-Week 11: UPIT with a special guest
+Week 11: UPIT with a special guest: Tanishq Abraham
 
-Week 12: SimCLR and Self-Supervised Learning with special guest
+Week 12: SimCLR and Self-Supervised Learning with special guest: Kerem Turgutlu
